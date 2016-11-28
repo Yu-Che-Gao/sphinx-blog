@@ -3133,3 +3133,272 @@
 [Mon Nov 28 18:36:49.523 2016] [18356] accepting connections
 [Mon Nov 28 18:37:26.363 2016] [18356] caught SIGTERM, shutting down
 [Mon Nov 28 18:37:26.890 2016] [18356] shutdown complete
+[Mon Nov 28 18:53:46.695 2016] [ 9388] listening on all interfaces, port=3312
+[Mon Nov 28 18:53:46.702 2016] [ 9388] binlog: replaying log ./binlog.001
+[Mon Nov 28 18:53:46.702 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.702 2016] [ 9388] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.702 2016] [ 9388] binlog: replaying log ./binlog.002
+[Mon Nov 28 18:53:46.702 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.702 2016] [ 9388] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: replaying log ./binlog.003
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: finished replaying ./binlog.003; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: replaying log ./binlog.004
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: finished replaying ./binlog.004; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.703 2016] [ 9388] binlog: replaying log ./binlog.005
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: finished replaying ./binlog.005; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: replaying log ./binlog.005
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: finished replaying ./binlog.005; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: replaying log ./binlog.006
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: finished replaying ./binlog.006; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.704 2016] [ 9388] binlog: replaying log ./binlog.007
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: finished replaying ./binlog.007; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replaying log ./binlog.008
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: finished replaying ./binlog.008; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.705 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.706 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.707 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.708 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.709 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.710 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.711 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.711 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.711 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.712 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.713 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.714 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.715 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:53:46.716 2016] [ 9388] binlog: finished replaying total 43 in 0.014 sec
+[Mon Nov 28 18:53:46.724 2016] [ 9388] accepting connections
+[Mon Nov 28 18:54:06.398 2016] [ 9388] caught SIGTERM, shutting down
+[Mon Nov 28 18:54:06.578 2016] [ 9388] shutdown complete
+[Mon Nov 28 18:54:10.346 2016] [15124] listening on all interfaces, port=3312
+[Mon Nov 28 18:54:10.353 2016] [15124] binlog: replaying log ./binlog.001
+[Mon Nov 28 18:54:10.353 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.353 2016] [15124] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.353 2016] [15124] binlog: replaying log ./binlog.002
+[Mon Nov 28 18:54:10.354 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.354 2016] [15124] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.354 2016] [15124] binlog: replaying log ./binlog.003
+[Mon Nov 28 18:54:10.354 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.354 2016] [15124] binlog: finished replaying ./binlog.003; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.354 2016] [15124] binlog: replaying log ./binlog.004
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: finished replaying ./binlog.004; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: replaying log ./binlog.005
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: finished replaying ./binlog.005; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: replaying log ./binlog.005
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.355 2016] [15124] binlog: finished replaying ./binlog.005; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: replaying log ./binlog.006
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: finished replaying ./binlog.006; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: replaying log ./binlog.007
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: finished replaying ./binlog.007; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.356 2016] [15124] binlog: replaying log ./binlog.008
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: finished replaying ./binlog.008; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.357 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.358 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.359 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.360 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.360 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.360 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.360 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.360 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.361 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.361 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.361 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.361 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.362 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.363 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.364 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.365 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.366 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.367 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.368 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.369 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.369 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.369 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.369 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.370 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.370 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: replaying log ./binlog.009
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
+[Mon Nov 28 18:54:10.371 2016] [15124] binlog: finished replaying total 44 in 0.018 sec
+[Mon Nov 28 18:54:10.379 2016] [15124] accepting connections
