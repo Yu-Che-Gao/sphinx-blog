@@ -3402,3 +3402,5 @@
 [Mon Nov 28 18:54:10.371 2016] [15124] binlog: finished replaying ./binlog.009; 0.0 MB in 0.000 sec
 [Mon Nov 28 18:54:10.371 2016] [15124] binlog: finished replaying total 44 in 0.018 sec
 [Mon Nov 28 18:54:10.379 2016] [15124] accepting connections
+[Mon Nov 28 18:54:40.241 2016] [15124] caught SIGTERM, shutting down
+[Mon Nov 28 18:54:40.425 2016] [15124] shutdown complete
